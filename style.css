@@ -1,0 +1,42 @@
+body {
+    color: rgb(33, 32, 31);
+    background-image: linear-gradient(to right,rgb(233, 222, 222), rgb(255, 146, 56),rgb(255, 139, 31),rgb(204, 203, 203));
+    margin: 20px;
+    text-align: center;
+    
+}
+header {
+    border-bottom: solid 3px whitesmoke;
+    border-top: solid 3px whitesmoke;
+    border-left: solid 3px whitesmoke;
+    border-right: solid 3px whitesmoke;
+    border-style: solid;
+    padding: 10px;
+    font-size: 35px;
+    color: whitesmoke;
+    font-family: cursive;
+    font-weight:bolder 40px;
+}
+
+section {
+    background-image: linear-gradient(rgb(237, 178, 115),rgb(245, 231, 231));
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: grid;
+    justify-content:center;
+}
+
+.chamada-texto {
+    margin-right: 10%;
+    text-align:center;
+    border-image-slice: 40px;
+    
+
+}
+.chamada-texto {
+    margin-right: 10%;
+    text-align:center;
+    border-image-slice: 40px;
+    
+}
+img{ height:130px}
